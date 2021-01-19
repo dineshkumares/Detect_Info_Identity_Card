@@ -1,0 +1,8 @@
+*.DS_Store
+*.pyc
+venv/
+.idea/
+data/test/
+data/train/
+src/card_detector/*.png
+src/info_detector/*.png
